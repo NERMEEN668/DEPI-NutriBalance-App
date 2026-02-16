@@ -71,6 +71,4 @@ A community space where users can share healthy recipes, upload photos and ingre
 - Conducting Usability Testing with target users, analyzing feedback, refining the interface, and preparing the final design system and prototype for hand-off.
 
 
-Building an interactive prototype to test key flows such as health data input, personalized meal recommendations, calorie tracking, and recipe sharing.
-Phase 5: Evaluation
-Conducting Usability Testing with target users, analyzing feedback, refining the interface, and preparing the final design system and prototype for hand-off.
+
