@@ -5,10 +5,10 @@
 
 ##  Team Members
 - **Esraa Yasser Abdallah (Team Leader)**  
-- **Alaa Abdelhamid Farouk**  
-- **Doaa Shaban Abdel Shafouk**  
 - **Heba Mohamed Younis**  
-- **Nermeen Ayman Ebrahim**
+- **Nermeen Ayman Ebrahim**  
+- **Alaa Abdelhamid Farouk**  
+- **Doaa Shaban Abdel Shafouk**
 - **Shehab Hatem Mohamed Refaat**
 
 ---
