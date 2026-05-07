@@ -71,11 +71,11 @@ A community space where users can share healthy recipes, upload photos and ingre
 - Conducting Usability Testing with target users, analyzing feedback, refining the interface, and preparing the final design system and prototype for hand-off.
 
 
-### Discovery stage
+# Discovery stage
 ## 1.Empathize
-# Goal
+### Goal
 - Understand the users needs, behaviors, and challenges related to managing diet and health conditions.
 
-# Raw Data (Primary Research)
+### Raw Data (Primary Research)
 
 
