@@ -118,5 +118,82 @@ The survey collected quantitative data from participants about their eating habi
 - **Easy** 18%
 - **Moderate** 46%
 - **Difficult** 36%
-**Insight:** Many users find nutrition labels confusing, suggesting the need for simplified nutritional information.
+> **Insight:** Many users find nutrition labels confusing, suggesting the need for simplified nutritional information.
 
+**Q6:** How often do you cook meals at home?
+- **Daily** 42%
+- **Several times a week** 38%
+- **Rarely** 20%
+> **Insight:** Since many users cook at home regularly, recipe suggestions would be highly valuable.
+
+**Q7:** Have you used a nutrition or diet app before?
+- **Yes** 46%
+- **No** 54%
+> **Insight:** More than half of users are new to nutrition apps, which highlights the need for a simple and beginner-friendly design.
+
+**Q8:** Where do you usually search for healthy recipes?
+- **Social media** 38%
+- **Google search** 30%
+- **Health websites** 18%
+- **Mobile apps** 14%
+> **Insight:** Social media and search engines are the most common sources for finding healthy recipes.
+
+**Q9:** What features would you want in a nutrition app?
+- **Personalized meal plans** 74%
+- **Nutrient tracking** 62%
+- **Healthy recipes** 58%
+- **Health progress dashboard** 48%
+> **Insight:** Users want personalized guidance and easy nutrition tracking.
+
+**Q10** How important is personalized meal planning for you?
+- **Very important** 60%
+- **Important** 28%
+- **Not important** 12%
+> **Insight:** Personalized recommendations are highly valued by users managing health conditions.
+
+**Q11:** What is the biggest difficulty when using nutrition apps?
+- **Apps have confusing interfaces** 36%
+- **Manual food entry takes too long** 28%
+- **Too much information and data** 20%
+- **Lack of useful features** 16%
+> **Insight:** Simplicity and ease of use are essential for better user experience.
+
+**Q12:** Would you like a feature that allows users to share healthy recipes with each other?
+- **Yes** 64%
+- **Maybe** 26%
+- **No** 10%
+> **Insight:** A community feature for sharing recipes could increase user engagement.
+
+### Interview Quotes (Raw User Feedback)
+- User 1:
+“I don’t know how much sugar is in the food I eat.”
+- User 2:
+“Healthy meals take too much time to plan.”
+- User 3:
+“Most nutrition apps are complicated.”
+- User 4:
+“I want simple meal suggestions for my health condition.”
+
+### Final Research Insights
+From the 12 survey questions, the main user problems identified are:
+- Difficulty planning healthy meals
+- Challenges calculating nutrients
+- Limited access to reliable healthy recipes
+- Difficulty understanding nutrition labels
+- Nutrition apps are often complicated
+- Users want personalized meal recommendations
+
+### Secondary Research
+<img width="1241" height="187" alt="image" src="https://github.com/user-attachments/assets/93e2d14d-c9ac-46e8-8d83-c7f7f6f392dd" />
+
+<img width="1110" height="1534" alt="image" src="https://github.com/user-attachments/assets/e89d0f3a-f3c1-4da2-ab2b-8d57e12156e8" />
+
+<img width="1059" height="526" alt="image" src="https://github.com/user-attachments/assets/5593c4bf-679f-4dd6-8484-5c18ac30b0e7" />
+
+<img width="1059" height="526" alt="image" src="https://github.com/user-attachments/assets/b79bfeeb-c5cd-4a95-b3a6-de08f8ef2a7e" />
+
+<img width="1064" height="551" alt="image" src="https://github.com/user-attachments/assets/fab93b32-36eb-4d6c-9dac-fe8ab78a2abc" />
+
+<img width="1064" height="551" alt="image" src="https://github.com/user-attachments/assets/2ed88728-5b1f-4884-aae7-9927904e69ad" />
+
+<img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/a9283fb8-ad7f-4adf-8a42-f4c25fae3b38" />
