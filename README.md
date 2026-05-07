@@ -200,3 +200,20 @@ From the 12 survey questions, the main user problems identified are:
 
 <img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/b19174ac-58e8-4f5d-b489-26147c6fda68" />
 
+### Growth of Health Apps
+According to the Google Play Store, mobile health applications have increased significantly in recent years. By 2024, there were over 350,000 health apps worldwide supporting nutrition tracking, fitness monitoring, and chronic disease management.
+
+### Technology Trends in Nutrition Apps
+Recent research shows modern nutrition apps increasingly include:
+- AI food recognition
+- automatic nutrition analysis
+- personalized meal recommendations
+However, many apps still require manual food entry, which users find time-consuming.
+
+### Design Opportunities
+Based on research, NutriBalance should focus on:
+1. Personalized meal planning
+2. Easy nutrition tracking
+3. Visual health dashboards
+4. Healthy recipe community
+5. Medical-based food recommendations
