@@ -246,7 +246,17 @@ Based on research, NutriBalance should focus on:
 
 ### Competitive Analysis
 
-
+| App | Main Focus | Core Features | UX Strengths | UX Weaknesses | NutriBalance Advantage |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **MyFitnessPal** | Nutrition tracking & weight management | Calorie tracking, food diary, barcode scanner, exercise tracking | Very large food database, strong tracking tools | Meal planning limited, many features behind premium | **NutriBalance** provides integrated meal planning + community recipes |
+| **mySugr** | Diabetes management | Blood sugar tracking, insulin logging, health reports | Designed specifically for diabetes patients | Limited meal planning and nutrition suggestions | **NutriBalance** combines diabetes support with healthy meal planning |
+| **Carb Manager** | Keto / low-carb diet tracking | Carb tracking, keto meal plans, macro tracking | Strong carb tracking with large keto recipe library | Focused mainly on keto diet | **NutriBalance** supports multiple health conditions (diabetes, hypertension) |
+| **Lifesum** | Healthy lifestyle & diet planning | Diet plans, calorie tracking, water tracking | Clean interface and simple UX | Some recommendations inaccurate, premium features | **NutriBalance** focuses on health-condition-aware meal recommendations |
+| **Glucose Buddy** | Diabetes monitoring | Blood sugar tracking, medication logs | Easy health tracking | Limited nutrition analysis and recipes | **NutriBalance** integrates nutrition + health tracking |
+| **Diabetes:M** | Advanced diabetes management | Insulin calculator, analytics, reports | Detailed medical data tracking | Interface complex for beginners | **NutriBalance** focuses on simple and user-friendly design |
+| **FatSecret** | Calorie tracking | Food diary, recipes, exercise log | Many free features | Limited personalized nutrition guidance | **NutriBalance** offers personalized meal plans and recipes |
+| **Elfie** | Chronic disease monitoring | Blood pressure tracking, medication reminders | Gamification and health monitoring | Limited focus on nutrition | **NutriBalance** combines nutrition planning + chronic disease awareness |
+| **⭐ NutriBalance** | **Smart healthy eating platform** | Meal planning, calorie tracking, healthy recipes, community sharing | Simple UX, disease-aware nutrition, community recipes | Growing food database | **Combines nutrition tracking + disease support + community recipes** |
 
 ### Key Insights from Competitive Analysis
 - **Most apps focus on tracking, not planning**
