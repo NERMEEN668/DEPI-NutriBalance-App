@@ -190,10 +190,13 @@ From the 12 survey questions, the main user problems identified are:
 
 <img width="1059" height="526" alt="image" src="https://github.com/user-attachments/assets/5593c4bf-679f-4dd6-8484-5c18ac30b0e7" />
 
-<img width="1059" height="526" alt="image" src="https://github.com/user-attachments/assets/b79bfeeb-c5cd-4a95-b3a6-de08f8ef2a7e" />
+<img width="1095" height="1492" alt="image" src="https://github.com/user-attachments/assets/65fa2209-d57d-49f9-8a7b-ab18164a23c8" />
 
-<img width="1064" height="551" alt="image" src="https://github.com/user-attachments/assets/fab93b32-36eb-4d6c-9dac-fe8ab78a2abc" />
+<img width="1064" height="551" alt="image" src="https://github.com/user-attachments/assets/6ccb09aa-80c4-4b3f-8fd3-d532f1e67502" />
 
-<img width="1064" height="551" alt="image" src="https://github.com/user-attachments/assets/2ed88728-5b1f-4884-aae7-9927904e69ad" />
+<img width="1102" height="1564" alt="image" src="https://github.com/user-attachments/assets/b3482287-848d-43c3-a062-d31a4dc68aea" />
 
-<img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/a9283fb8-ad7f-4adf-8a42-f4c25fae3b38" />
+<img width="1083" height="570" alt="image" src="https://github.com/user-attachments/assets/99a188f7-d3b4-4a97-a6f2-1ae131251718" />
+
+<img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/b19174ac-58e8-4f5d-b489-26147c6fda68" />
+
