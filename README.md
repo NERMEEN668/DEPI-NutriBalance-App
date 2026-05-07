@@ -286,7 +286,7 @@ NutriBalance can differentiate itself by offering:
 ## 2) Define Stage
 
 ### **Goal**
-- Clearly define the **core user problem** that NutriBalance will solve.
+Clearly define the **core user problem** that NutriBalance will solve.
 
 ### Point of View (POV)
 Adults with chronic health conditions need a **simple and personalized nutrition tool** that helps them track their food intake and follow medically recommended diets without complicated calculations.
