@@ -73,7 +73,7 @@ A community space where users can share healthy recipes, upload photos and ingre
 
 
 # Discovery stage
-## 1.Empathize
+## 1. Empathize
 ### Goal
 - Understand the users needs, behaviors, and challenges related to managing diet and health conditions.
 
@@ -87,9 +87,36 @@ The survey collected quantitative data from participants about their eating habi
 - Method: Online survey and short user interviews
 
 ### Survey Questions & Results
-Q1: How often do you currently track what you eat during the day?
-| Yes | 32% |
-| Sometimes | 44% |
-| No | 24% |
+**Q1:** How often do you currently track what you eat during the day?
+**Yes** 32%
+**Sometimes** 44%
+**No** 24%
+**Insight:** Many users track their food irregularly, indicating the need for a simple and convenient tracking system.
 
+**Q2:** What is the biggest challenge you face in maintaining a healthy diet?
+**Lack of meal planning** 36%
+**Difficulty calculating nutrients** 28%
+**Lack of healthy recipes** 20%
+**Motivation problems** 16%
+**Insight:** Meal planning and understanding nutritional values are the main challenges for users.
+
+**Q3:** What motivates you most to maintain a healthy diet?
+**Health concerns** 48%
+**Weight management** 26%
+**Doctor recommendation** 18%
+**Lifestyle improvement** 8%
+**Insight:** Health concerns are the primary motivation for users to follow a healthy diet.
+
+**Q4:** What methods do you currently use to follow your diet plan?
+**Health or nutrition apps** 30%
+**Writing down meals manually** 20%
+**Following doctor or nutritionist advice** 34%
+**I do not use any specific method** 16%
+**Insight:** Many users depend on doctors or external tools, while some still lack structured methods.
+
+**Q5:** How easy is it for you to understand nutrition labels on food packages?
+**Easy** 18%
+**Moderate** 46%
+**Difficult** 36%
+**Insight:** Many users find nutrition labels confusing, suggesting the need for simplified nutritional information.
 
