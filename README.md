@@ -1,4 +1,4 @@
-# NutriBalance
+<img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/ec2fd0bf-65ab-4574-afb0-342d2debd079" /># NutriBalance
 ### NutriBalance is a smart meal planning mobile app designed for people with diabetes and hypertension. It provides personalized meal plans, nutrient tracking, and a supportive recipe-sharing community to help users maintain healthy eating habits and manage their conditions effectively.
 
 ---
@@ -70,12 +70,23 @@ A community space where users can share healthy recipes, upload photos and ingre
 ### Week 5 — [Evaluation]
 - Conducting Usability Testing with target users, analyzing feedback, refining the interface, and preparing the final design system and prototype for hand-off.
 
+---
 
+# Design Thinking Stages
 
-# Discovery stage
-## 1. Empathize
+1. Empathize
+2. Define
+3. Ideate
+4. Early Prototype
+5. Test
+
+---
+
+## 1) Empathize
 ### Goal
 - Understand the users needs, behaviors, and challenges related to managing diet and health conditions.
+
+---
 
 ### Raw Data (Primary Research)
 The survey collected quantitative data from participants about their eating habits, nutrition tracking behaviors, and expectations from health applications. In addition, several user interviews were conducted to gain deeper insights into users' experiences, frustrations, and needs.
@@ -164,6 +175,8 @@ The survey collected quantitative data from participants about their eating habi
 - **No** 10%
 > **Insight:** A community feature for sharing recipes could increase user engagement.
 
+---
+
 ### Interview Quotes (Raw User Feedback)
 - User 1:
 “I don’t know how much sugar is in the food I eat.”
@@ -174,6 +187,8 @@ The survey collected quantitative data from participants about their eating habi
 - User 4:
 “I want simple meal suggestions for my health condition.”
 
+---
+
 ### Final Research Insights
 From the 12 survey questions, the main user problems identified are:
 - Difficulty planning healthy meals
@@ -182,6 +197,8 @@ From the 12 survey questions, the main user problems identified are:
 - Difficulty understanding nutrition labels
 - Nutrition apps are often complicated
 - Users want personalized meal recommendations
+
+---
 
 ### Secondary Research
 <img width="1241" height="187" alt="image" src="https://github.com/user-attachments/assets/93e2d14d-c9ac-46e8-8d83-c7f7f6f392dd" />
@@ -200,10 +217,12 @@ From the 12 survey questions, the main user problems identified are:
 
 <img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/b19174ac-58e8-4f5d-b489-26147c6fda68" />
 
+---
+
 ### Growth of Health Apps
 According to the Google Play Store, mobile health applications have increased significantly in recent years. By 2024, there were over 350,000 health apps worldwide supporting nutrition tracking, fitness monitoring, and chronic disease management.
 
---
+---
 
 ### Technology Trends in Nutrition Apps
 Recent research shows modern nutrition apps increasingly include:
@@ -222,5 +241,155 @@ Based on research, NutriBalance should focus on:
 4. Healthy recipe community
 5. Medical-based food recommendations
 
--
+---
 
+### Competitive Analysis
+
+
+
+### Key Insights from Competitive Analysis
+- **Most apps focus on tracking, not planning**
+Many apps like **MyFitnessPal** and **FatSecret** mainly track calories and meals.
+
+- **Diabetes apps focus on medical tracking**
+Apps such as **mySugr**, **Glucose Buddy**, and **Diabetes:M** focus on blood sugar monitoring rather than nutrition planning.
+
+- **Diet apps focus on specific diets**
+Apps like **Carb Manager** focus mainly on **keto / low-carb diets** instead of general healthy nutrition.
+
+
+### Opportunity for NutriBalance
+NutriBalance can differentiate itself by offering:
+- Personalized meal plans tailored for **diabetes and hypertension**
+- Nutrition tracking for **calories, sugar, and sodium**
+- A **healthy recipe sharing community**
+- A **simple and accessible interface for all age groups**
+
+---
+
+## Empathy Map
+<img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/cae8e4ba-b7e2-4245-aeaa-109533588401" />
+
+---
+ 
+## 2) Define Stage
+
+### **Goal**
+- Clearly define the **core user problem** that NutriBalance will solve.
+
+### Point of View (POV)
+Adults with chronic health conditions need a **simple and personalized nutrition tool** that helps them track their food intake and follow medically recommended diets without complicated calculations.
+
+### How Might We Questions
+- How might we visualize key nutrition details at a glance so users can instantly judge if a food fits their needs?
+- How might we tailor meal suggestions to users’ health conditions, preferences, schedules, and daily habits without feeling intrusive?
+- How might we make calorie and nutrient tracking fast and low-effort (e.g., scan/photo/voice) to reduce manual entry fatigue?
+- How might we support healthier decisions in real moments, at home while cooking, and outside while ordering, without adding friction?
+- How might we recommend healthier swaps for foods users already love that still feel satisfying and realistic?
+- How might we keep users motivated over time through progress, reminders, and positive reinforcement, not guilt or pressure?
+- How might we help users share healthy recipes and learn from a trusted community with similar goals?
+
+### Persona
+<img width="4121" height="3296" alt="image" src="https://github.com/user-attachments/assets/21a54513-f155-445f-93b5-d67d92302be7" />
+
+## 3) Ideate Stage
+### **Goal**
+- Generate creative solutions that solve the identified problems.
+
+### Brainstormed Ideas (Features)
+1. **Personalized Meal Plans**
+    - Daily and weekly meal suggestions based on health conditions and calorie needs.
+2. **Smart Nutrition Tracker**
+    - **AI Food recognition (image scan)** for quick nutrient estimation
+    - Automatic tracking of:
+        - Calories
+        - Protein
+        - Carbohydrates
+        - Sugar
+        - Sodium
+3. **Health Dashboard**
+    - Visual charts showing daily and weekly nutrient intake.
+4. **Meal Swapping**
+    - Users can replace meals while keeping nutritional balance.
+5. **Recipe Community**
+    - Users can share healthy recipes and discover meals from others.
+6. **Medical-Based Filters**
+    - Recipes filtered by:
+        - Low sugar
+        - Low sodium
+        - Diabetes-friendly
+        - Heart-healthy
+7. **Manual Health Reminders**
+    - Reminders for:
+        - **Diabetes** measurement
+        - **Hypertension** checks
+    - Customizable timing based on user routine
+8. Hydration Reminder
+    - Smart reminders to drink water throughout the day
+    - Daily water intake tracking
+9. Restaurant Meal Analyzer
+    - Users enter meal ingredients from restaurant menus
+    - App evaluates:
+        - Suitability for the health condition
+        - Nutritional impact
+10. Medical Tips & Articles
+    - Verified and simplified medical information
+11. Ingredient-Based Meal Generator
+    - Users input available ingredients
+    - App suggests suitable healthy meals
+12. Future Health Projection (Mirror Feature)
+    - Shows potential future outcomes based on current eating habits
+    - Visual streak counter to motivate users
+13. Streak System
+    - Track consistency in:
+        - Logging meals
+        - Following the meal plans
+    - Visual streak counter to motivate users
+14. Weekly Food Challenge Mode
+    - Challenges such as:
+        - “Low Sugar Week” or “No Processed Food Challenge”
+    - Rewards or badges for completion
+
+### Feature Prioritization
+- Personalized Meal Plan — High
+- Nutrition Tracking — High
+- Health Dashboard — High
+- Manual Health Reminders — High
+- Restaurant Meal Analyzer — High
+- Ingredient-Based Meal Generator — Medium
+- Recipe Sharing — Medium
+- Meal Swap — Medium
+- Hydration Reminder — Low
+- Medical Tips & Articles — Low
+- Future Health Projection — Low
+- Food Challenge Mode — Low
+- Streak System — Low
+
+---
+
+### User Journey Map
+<img width="4890" height="2966" alt="image" src="https://github.com/user-attachments/assets/ae31b479-302d-4d36-8bc5-1d91638f0010" />
+
+---
+
+### Happy Flow & Edge Cases
+
+<img width="5356" height="2966" alt="image" src="https://github.com/user-attachments/assets/dc03a9d0-1f47-40d6-8462-e63e86fdc0b9" />
+
+---
+
+### Information Architecture
+
+<img width="6100" height="2118" alt="image" src="https://github.com/user-attachments/assets/6705e7b9-ee5a-452d-a1e1-b717e05c5b58" />
+
+---
+
+### Site Map
+<img width="3474" height="2247" alt="image" src="https://github.com/user-attachments/assets/4eb02f9b-558d-40ef-bb36-fda5987119a2" />
+
+---
+
+### User Flow
+<img width="5741" height="3109" alt="image" src="https://github.com/user-attachments/assets/004aa6ed-e0fe-4ce5-b23d-bae883430259" />
+
+---
