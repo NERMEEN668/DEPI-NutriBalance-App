@@ -71,11 +71,25 @@ A community space where users can share healthy recipes, upload photos and ingre
 - Conducting Usability Testing with target users, analyzing feedback, refining the interface, and preparing the final design system and prototype for hand-off.
 
 
+
 # Discovery stage
 ## 1.Empathize
 ### Goal
 - Understand the users needs, behaviors, and challenges related to managing diet and health conditions.
 
 ### Raw Data (Primary Research)
+The survey collected quantitative data from participants about their eating habits, nutrition tracking behaviors, and expectations from health applications. In addition, several user interviews were conducted to gain deeper insights into users' experiences, frustrations, and needs.
+
+### Survey Overview
+- Participants: 25 users
+- Age Range: 25 – 60
+- Target Users: People managing their diet due to health conditions such as diabetes or hypertension
+- Method: Online survey and short user interviews
+
+### Survey Questions & Results
+Q1: How often do you currently track what you eat during the day?
+| Yes | 32% |
+| Sometimes | 44% |
+| No | 24% |
 
 
