@@ -85,7 +85,7 @@ A community space where users can share healthy recipes, upload photos and ingre
 
 ## 1) Empathize
 ### Goal
-- Understand the users needs, behaviors, and challenges related to managing diet and health conditions.
+ Understand the users needs, behaviors, and challenges related to managing diet and health conditions.
 
 ---
 
@@ -176,7 +176,7 @@ The survey collected quantitative data from participants about their eating habi
 - **No** 10%
 > **Insight:** A community feature for sharing recipes could increase user engagement.
 
----
+
 
 ### Interview Quotes (Raw User Feedback)
 - User 1:
@@ -188,7 +188,7 @@ The survey collected quantitative data from participants about their eating habi
 - User 4:
 “I want simple meal suggestions for my health condition.”
 
----
+
 
 ### Final Research Insights
 From the 12 survey questions, the main user problems identified are:
@@ -199,7 +199,7 @@ From the 12 survey questions, the main user problems identified are:
 - Nutrition apps are often complicated
 - Users want personalized meal recommendations
 
----
+
 
 ### Secondary Research
 <img width="1241" height="187" alt="image" src="https://github.com/user-attachments/assets/93e2d14d-c9ac-46e8-8d83-c7f7f6f392dd" />
@@ -218,12 +218,12 @@ From the 12 survey questions, the main user problems identified are:
 
 <img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/b19174ac-58e8-4f5d-b489-26147c6fda68" />
 
----
+
 
 ### Growth of Health Apps
 According to the Google Play Store, mobile health applications have increased significantly in recent years. By 2024, there were over 350,000 health apps worldwide supporting nutrition tracking, fitness monitoring, and chronic disease management.
 
----
+
 
 ### Technology Trends in Nutrition Apps
 Recent research shows modern nutrition apps increasingly include:
@@ -232,7 +232,7 @@ Recent research shows modern nutrition apps increasingly include:
 - personalized meal recommendations
 However, many apps still require manual food entry, which users find time-consuming.
 
----
+
 
 ### Design Opportunities
 Based on research, NutriBalance should focus on:
@@ -242,7 +242,7 @@ Based on research, NutriBalance should focus on:
 4. Healthy recipe community
 5. Medical-based food recommendations
 
----
+
 
 ### Competitive Analysis
 
@@ -276,7 +276,7 @@ NutriBalance can differentiate itself by offering:
 - A **healthy recipe sharing community**
 - A **simple and accessible interface for all age groups**
 
----
+
 
 ## Empathy Map
 <img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/cae8e4ba-b7e2-4245-aeaa-109533588401" />
