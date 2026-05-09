@@ -269,7 +269,7 @@ NutriBalance can differentiate itself by offering:
 - A **simple and accessible interface for all age groups**
 <br>  <br>
 ### Empathy Map
-<img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/cae8e4ba-b7e2-4245-aeaa-109533588401" />
+<img width="3891" height="2221" alt="Empathy Map 3" src="https://github.com/user-attachments/assets/622c5f89-236e-4f05-ba74-3fb38b7381da" />
 <br> <br>
 
 ---
@@ -291,7 +291,7 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 - How might we help users share healthy recipes and learn from a trusted community with similar goals?
 <br>  <br>
 ### Persona
-<img width="4121" height="3296" alt="image" src="https://github.com/user-attachments/assets/21a54513-f155-445f-93b5-d67d92302be7" />
+<img width="4121" height="2833" alt="Persona 3" src="https://github.com/user-attachments/assets/ff1c54fb-97c5-45db-90d1-a015be08d61c" />
 <br>  
 
 ---
@@ -369,21 +369,21 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 - Streak System — Low
 <br>  <br>
 ### User Journey Map
-<img width="4890" height="2966" alt="image" src="https://github.com/user-attachments/assets/ae31b479-302d-4d36-8bc5-1d91638f0010" />
+<img width="4890" height="2966" alt="User Journey Map" src="https://github.com/user-attachments/assets/5e087eb0-3e3d-4b75-8b01-7f14f54a776e" />
 <br>  <br>
 
 ### Happy Flow & Edge Cases
-<img width="5356" height="2966" alt="image" src="https://github.com/user-attachments/assets/dc03a9d0-1f47-40d6-8462-e63e86fdc0b9" />
+<img width="5356" height="2966" alt="Happy Flow   Edge Cases" src="https://github.com/user-attachments/assets/cf707e12-3f05-464f-a3a7-50ea7832b316" />
 <br>  <br>
 
 ### Information Architecture
-<img width="6100" height="2118" alt="image" src="https://github.com/user-attachments/assets/6705e7b9-ee5a-452d-a1e1-b717e05c5b58" />
+<img width="6008" height="1928" alt="IA" src="https://github.com/user-attachments/assets/5059c144-69eb-44b7-bdde-c54c1ac21b15" />
 <br>  <br>
 
 ### Site Map
-<img width="3474" height="2247" alt="image" src="https://github.com/user-attachments/assets/4eb02f9b-558d-40ef-bb36-fda5987119a2" />
+<img width="4173" height="2077" alt="Sitemap" src="https://github.com/user-attachments/assets/92877d45-992e-41b0-af71-31139241f11f" />
 <br>  <br>
 
 ### User Flow
-<img width="5741" height="3109" alt="image" src="https://github.com/user-attachments/assets/004aa6ed-e0fe-4ce5-b23d-bae883430259" />
+<img width="5086" height="2018" alt="Main Userflow" src="https://github.com/user-attachments/assets/25a64705-809f-4314-b8b6-1639d13695c2" />
 <br>  <br>
