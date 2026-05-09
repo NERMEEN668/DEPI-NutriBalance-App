@@ -212,7 +212,6 @@ From the 12 survey questions, the main user problems identified are:
 
 <img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/b19174ac-58e8-4f5d-b489-26147c6fda68" />
 <br>  <br>
-
 ### Growth of Health Apps
 
 According to the Google Play Store, mobile health applications have increased significantly in recent years. By 2024, there were over 350,000 health apps worldwide supporting nutrition tracking, fitness monitoring, and chronic disease management.
