@@ -248,7 +248,8 @@ Based on research, NutriBalance should focus on:
 | **Elfie** | Chronic disease monitoring | Blood pressure tracking, medication reminders | Gamification and health monitoring | Limited focus on nutrition | **NutriBalance** combines nutrition planning + chronic disease awareness |
 | **⭐ NutriBalance** | **Smart healthy eating platform** | Meal planning, calorie tracking, healthy recipes, community sharing | Simple UX, disease-aware nutrition, community recipes | Growing food database | **Combines nutrition tracking + disease support + community recipes** |
 
-<br>  
+<br> 
+
 ### Key Insights from Competitive Analysis
 - **Most apps focus on tracking, not planning**
 Many apps like **MyFitnessPal** and **FatSecret** mainly track calories and meals.
