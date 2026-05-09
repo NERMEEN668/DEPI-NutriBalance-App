@@ -73,7 +73,7 @@ A community space where users can share healthy recipes, upload photos and ingre
 
 ---
 
-# Design Thinking Stages
+## Design Thinking Stages
 
 1. Empathize
 2. Define
