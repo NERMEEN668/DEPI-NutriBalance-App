@@ -83,7 +83,7 @@ A community space where users can share healthy recipes, upload photos and ingre
 
 ---
 
-## 1) Empathize
+# 1) Empathize
 ### Goal
  Understand the users needs, behaviors, and challenges related to managing diet and health conditions. 
  <br>  <br>
@@ -274,7 +274,7 @@ NutriBalance can differentiate itself by offering:
 
 ---
  
-## 2) Define Stage
+# 2) Define Stage
 
 ### **Goal**
 Clearly define the **core user problem** that NutriBalance will solve.
