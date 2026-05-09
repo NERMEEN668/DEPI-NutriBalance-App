@@ -292,8 +292,9 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 <br>  <br>
 ### Persona
 <img width="4121" height="3296" alt="image" src="https://github.com/user-attachments/assets/21a54513-f155-445f-93b5-d67d92302be7" />
-<br>  <br>
+<br>  
 
+---
 # 3) Ideate Stage
 ### **Goal**
 - Generate creative solutions that solve the identified problems.
@@ -370,19 +371,19 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 ### User Journey Map
 <img width="4890" height="2966" alt="image" src="https://github.com/user-attachments/assets/ae31b479-302d-4d36-8bc5-1d91638f0010" />
 <br>  <br>
-### Happy Flow & Edge Cases
 
+### Happy Flow & Edge Cases
 <img width="5356" height="2966" alt="image" src="https://github.com/user-attachments/assets/dc03a9d0-1f47-40d6-8462-e63e86fdc0b9" />
 <br>  <br>
 
 ### Information Architecture
-
 <img width="6100" height="2118" alt="image" src="https://github.com/user-attachments/assets/6705e7b9-ee5a-452d-a1e1-b717e05c5b58" />
 <br>  <br>
 
 ### Site Map
 <img width="3474" height="2247" alt="image" src="https://github.com/user-attachments/assets/4eb02f9b-558d-40ef-bb36-fda5987119a2" />
 <br>  <br>
+
 ### User Flow
 <img width="5741" height="3109" alt="image" src="https://github.com/user-attachments/assets/004aa6ed-e0fe-4ce5-b23d-bae883430259" />
 <br>  <br>
