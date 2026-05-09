@@ -377,7 +377,7 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 <br>  <br>
 
 ### Information Architecture
-<img width="6008" height="1928" alt="IA" src="https://github.com/user-attachments/assets/5059c144-69eb-44b7-bdde-c54c1ac21b15" />
+<img width="6008" height="1928" alt="IA" src="https://github.com/user-attachments/assets/53c17f9c-5b11-4a44-bdfa-bd2973e1de1c" />
 <br>  <br>
 
 ### Site Map
@@ -385,5 +385,5 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 <br>  <br>
 
 ### User Flow
-<img width="5086" height="2018" alt="Main Userflow" src="https://github.com/user-attachments/assets/25a64705-809f-4314-b8b6-1639d13695c2" />
+<img width="5655" height="2702" alt="Main Userflow" src="https://github.com/user-attachments/assets/f870bb3b-3bc2-4e78-9943-f7cee07653b5" />
 <br>  <br>
