@@ -174,9 +174,7 @@ The survey collected quantitative data from participants about their eating habi
 - **Maybe** 26%
 - **No** 10%
 > **Insight:** A community feature for sharing recipes could increase user engagement.
-
 <br>  <br>
-
 ### Interview Quotes (Raw User Feedback)
 - User 1:
 “I don’t know how much sugar is in the food I eat.”
@@ -186,9 +184,7 @@ The survey collected quantitative data from participants about their eating habi
 “Most nutrition apps are complicated.”
 - User 4:
 “I want simple meal suggestions for my health condition.”
-
 <br>  <br>
-
 ### Final Research Insights
 From the 12 survey questions, the main user problems identified are:
 - Difficulty planning healthy meals
@@ -197,9 +193,7 @@ From the 12 survey questions, the main user problems identified are:
 - Difficulty understanding nutrition labels
 - Nutrition apps are often complicated
 - Users want personalized meal recommendations
-
 <br>  <br>
-
 ### Secondary Research
 <img width="1241" height="187" alt="image" src="https://github.com/user-attachments/assets/93e2d14d-c9ac-46e8-8d83-c7f7f6f392dd" />
 
@@ -216,23 +210,17 @@ From the 12 survey questions, the main user problems identified are:
 <img width="1083" height="570" alt="image" src="https://github.com/user-attachments/assets/99a188f7-d3b4-4a97-a6f2-1ae131251718" />
 
 <img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/b19174ac-58e8-4f5d-b489-26147c6fda68" />
-
 <br>  <br>
-
 ### Growth of Health Apps
 According to the Google Play Store, mobile health applications have increased significantly in recent years. By 2024, there were over 350,000 health apps worldwide supporting nutrition tracking, fitness monitoring, and chronic disease management.
-
 <br>  <br>
-
 ### Technology Trends in Nutrition Apps
 Recent research shows modern nutrition apps increasingly include:
 - AI food recognition
 - automatic nutrition analysis
 - personalized meal recommendations
 However, many apps still require manual food entry, which users find time-consuming.
-
 <br>  <br>
-
 ### Design Opportunities
 Based on research, NutriBalance should focus on:
 1. Personalized meal planning
@@ -240,8 +228,6 @@ Based on research, NutriBalance should focus on:
 3. Visual health dashboards
 4. Healthy recipe community
 5. Medical-based food recommendations
-
-
 <br>  <br>
 ### Competitive Analysis
 
@@ -267,16 +253,13 @@ Apps such as **mySugr**, **Glucose Buddy**, and **Diabetes:M** focus on blood su
 - **Diet apps focus on specific diets**
 Apps like **Carb Manager** focus mainly on **keto / low-carb diets** instead of general healthy nutrition.
 <br>  <br>
-
 ### Opportunity for NutriBalance
 NutriBalance can differentiate itself by offering:
 - Personalized meal plans tailored for **diabetes and hypertension**
 - Nutrition tracking for **calories, sugar, and sodium**
 - A **healthy recipe sharing community**
 - A **simple and accessible interface for all age groups**
-
 <br>  <br>
-
 ## Empathy Map
 <img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/cae8e4ba-b7e2-4245-aeaa-109533588401" />
 
