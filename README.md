@@ -176,6 +176,7 @@ The survey collected quantitative data from participants about their eating habi
 > **Insight:** A community feature for sharing recipes could increase user engagement.
  
   <br>
+  
 ### Interview Quotes (Raw User Feedback)
 - User 1:
 “I don’t know how much sugar is in the food I eat.”
