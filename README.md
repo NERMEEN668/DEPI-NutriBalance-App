@@ -85,9 +85,8 @@ A community space where users can share healthy recipes, upload photos and ingre
 
 ## 1) Empathize
 ### Goal
- Understand the users needs, behaviors, and challenges related to managing diet and health conditions.
-
----
+ Understand the users needs, behaviors, and challenges related to managing diet and health conditions. 
+ <br>
 
 ### Raw Data (Primary Research)
 The survey collected quantitative data from participants about their eating habits, nutrition tracking behaviors, and expectations from health applications. In addition, several user interviews were conducted to gain deeper insights into users' experiences, frustrations, and needs.
