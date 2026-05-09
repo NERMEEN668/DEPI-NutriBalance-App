@@ -275,7 +275,6 @@ NutriBalance can differentiate itself by offering:
 ---
  
 # 2) Define Stage
-
 ### **Goal**
 Clearly define the **core user problem** that NutriBalance will solve.
 <br>  <br>
@@ -294,6 +293,7 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 ### Persona
 <img width="4121" height="3296" alt="image" src="https://github.com/user-attachments/assets/21a54513-f155-445f-93b5-d67d92302be7" />
 <br>  <br>
+
 ## 3) Ideate Stage
 ### **Goal**
 - Generate creative solutions that solve the identified problems.
