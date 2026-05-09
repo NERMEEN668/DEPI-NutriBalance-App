@@ -260,7 +260,7 @@ NutriBalance can differentiate itself by offering:
 - A **healthy recipe sharing community**
 - A **simple and accessible interface for all age groups**
 <br>  <br>
-## Empathy Map
+### Empathy Map
 <img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/cae8e4ba-b7e2-4245-aeaa-109533588401" />
 <br> <br>
 
