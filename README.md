@@ -174,6 +174,7 @@ The survey collected quantitative data from participants about their eating habi
 - **Maybe** 26%
 - **No** 10%
 > **Insight:** A community feature for sharing recipes could increase user engagement.
+ 
 <br>  <br>
 ### Interview Quotes (Raw User Feedback)
 - User 1:
