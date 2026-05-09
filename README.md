@@ -104,10 +104,6 @@ The survey collected quantitative data from participants about their eating habi
 - **No** 24%
 > **Insight:** Many users track their food irregularly, indicating the need for a simple and convenient tracking system.
 
-
-
-
-
 **Q2:** What is the biggest challenge you face in maintaining a healthy diet?
 - **Lack of meal planning** 36%
 - **Difficulty calculating nutrients** 28%
@@ -266,7 +262,7 @@ NutriBalance can differentiate itself by offering:
 <br>  <br>
 ## Empathy Map
 <img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/cae8e4ba-b7e2-4245-aeaa-109533588401" />
-
+<br> <br>
 
 ---
  
