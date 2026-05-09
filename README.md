@@ -263,6 +263,7 @@ NutriBalance can differentiate itself by offering:
 ## Empathy Map
 <img width="3886" height="2216" alt="image" src="https://github.com/user-attachments/assets/cae8e4ba-b7e2-4245-aeaa-109533588401" />
 
+
 ---
  
 ## 2) Define Stage
