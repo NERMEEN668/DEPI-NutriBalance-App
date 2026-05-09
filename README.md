@@ -277,10 +277,10 @@ NutriBalance can differentiate itself by offering:
 
 ### **Goal**
 Clearly define the **core user problem** that NutriBalance will solve.
-
+<br>  <br>
 ### Point of View (POV)
 Adults with chronic health conditions need a **simple and personalized nutrition tool** that helps them track their food intake and follow medically recommended diets without complicated calculations.
-
+<br>  <br>
 ### How Might We Questions
 - How might we visualize key nutrition details at a glance so users can instantly judge if a food fits their needs?
 - How might we tailor meal suggestions to users’ health conditions, preferences, schedules, and daily habits without feeling intrusive?
@@ -289,14 +289,14 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 - How might we recommend healthier swaps for foods users already love that still feel satisfying and realistic?
 - How might we keep users motivated over time through progress, reminders, and positive reinforcement, not guilt or pressure?
 - How might we help users share healthy recipes and learn from a trusted community with similar goals?
-
+<br>  <br>
 ### Persona
 <img width="4121" height="3296" alt="image" src="https://github.com/user-attachments/assets/21a54513-f155-445f-93b5-d67d92302be7" />
-
+<br>  <br>
 ## 3) Ideate Stage
 ### **Goal**
 - Generate creative solutions that solve the identified problems.
-
+<br>  <br>
 ### Brainstormed Ideas (Features)
 1. **Personalized Meal Plans**
     - Daily and weekly meal suggestions based on health conditions and calorie needs.
@@ -350,7 +350,7 @@ Adults with chronic health conditions need a **simple and personalized nutrition
     - Challenges such as:
         - “Low Sugar Week” or “No Processed Food Challenge”
     - Rewards or badges for completion
-
+<br>  <br>
 ### Feature Prioritization
 - Personalized Meal Plan — High
 - Nutrition Tracking — High
@@ -365,32 +365,23 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 - Future Health Projection — Low
 - Food Challenge Mode — Low
 - Streak System — Low
-
----
-
+<br>  <br>
 ### User Journey Map
 <img width="4890" height="2966" alt="image" src="https://github.com/user-attachments/assets/ae31b479-302d-4d36-8bc5-1d91638f0010" />
-
----
-
+<br>  <br>
 ### Happy Flow & Edge Cases
 
 <img width="5356" height="2966" alt="image" src="https://github.com/user-attachments/assets/dc03a9d0-1f47-40d6-8462-e63e86fdc0b9" />
-
----
+<br>  <br>
 
 ### Information Architecture
 
 <img width="6100" height="2118" alt="image" src="https://github.com/user-attachments/assets/6705e7b9-ee5a-452d-a1e1-b717e05c5b58" />
-
----
+<br>  <br>
 
 ### Site Map
 <img width="3474" height="2247" alt="image" src="https://github.com/user-attachments/assets/4eb02f9b-558d-40ef-bb36-fda5987119a2" />
-
----
-
+<br>  <br>
 ### User Flow
 <img width="5741" height="3109" alt="image" src="https://github.com/user-attachments/assets/004aa6ed-e0fe-4ce5-b23d-bae883430259" />
-
----
+<br>  <br>
