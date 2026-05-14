@@ -390,3 +390,6 @@ Adults with chronic health conditions need a **simple and personalized nutrition
 
 ###Project Link:
 https://www.figma.com/design/RFug3QY3VPdWt7lxAYYcyo/NutriBalance
+
+###Presentation Link:
+https://www.figma.com/design/yVcAVKYuFUybrEAkJGsqJw/Presentation-NutriBalance?node-id=0-1&p=f&t=NEYWGsZwpCwd9kYa-0
