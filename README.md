@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/788a909b-9af2-47b3-863d-bbe65940ee0b" />
+<img width="1920" height="1280" alt="ChatGPT Image May 11, 2026, 09_48_32 PM 1" src="https://github.com/user-attachments/assets/64586f23-a138-491a-941c-59c7d6329e78" />
+
 
 ### NutriBalance is a smart meal planning mobile app designed for people with diabetes and hypertension. It provides personalized meal plans, nutrient tracking, and a supportive recipe-sharing community to help users maintain healthy eating habits and manage their conditions effectively.
 
