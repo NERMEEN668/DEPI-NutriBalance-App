@@ -1,4 +1,4 @@
-<img width="1920" height="4333" alt="image2" src="https://github.com/user-attachments/assets/03ae6f60-9ff7-40bc-8420-87b39fca5841" />
+
 # 1) Empathize
 ### Goal
  Understand the users needs, behaviors, and challenges related to managing diet and health conditions. 
@@ -115,10 +115,9 @@ From the 12 survey questions, the main user problems identified are:
 
 <img width="1920" height="4124" alt="image1" src="https://github.com/user-attachments/assets/b23aa426-c7d2-44a1-b202-a1d0d637386c" />
 
-<img width="1920" height="4333" alt="image2" src="https://github.com/user-attachments/assets/70574183-8eca-43e0-ac10-8450d17edec3" />
+<img width="1920" height="4278" alt="image2" src="https://github.com/user-attachments/assets/51d4b53c-eddf-417b-82d7-fe98fdc6c593" />
 
-<img width="1920" height="4266" alt="image3" src="https://github.com/user-attachments/assets/f792ec4f-6c6a-4634-a5ec-1b060f6c0b72" />
-
+<img width="1920" height="4212" alt="image3" src="https://github.com/user-attachments/assets/0c062b78-d0a9-4809-a283-a01671a944e5" />
 
 <br>  <br>
 
