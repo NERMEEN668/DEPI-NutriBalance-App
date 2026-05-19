@@ -91,3 +91,9 @@
 ### User Flow
 <img width="5655" height="2702" alt="Main Userflow" src="https://github.com/user-attachments/assets/f870bb3b-3bc2-4e78-9943-f7cee07653b5" />
 <br>  <br>
+
+### Project Link:
+https://www.figma.com/design/RFug3QY3VPdWt7lxAYYcyo/NutriBalance
+
+### Presentation Link:
+https://www.figma.com/design/yVcAVKYuFUybrEAkJGsqJw/Presentation-NutriBalance?node-id=0-1&p=f&t=NEYWGsZwpCwd9kYa-0
