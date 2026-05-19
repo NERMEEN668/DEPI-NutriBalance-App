@@ -1,3 +1,4 @@
+<img width="1920" height="4124" alt="screencapture-file-C-Users-EL-Mostwred-Desktop-New-folder-index-html-2026-05-20-01_56_032" src="https://github.com/user-attachments/assets/7e0015b4-26a4-4c2b-a131-0a7f873ba946" />
 
 
 # 1) Empathize
@@ -113,6 +114,10 @@ From the 12 survey questions, the main user problems identified are:
 - Users want personalized meal recommendations
 <br>  <br>
 ### Secondary Research
+
+
+<img width="1920" height="4458" alt="screencapture-file-C-Users-EL-Mostwred-Desktop-New-folder-index-html-2026-05-20-01_56_033" src="https://github.com/user-attachments/assets/805ba7fa-89eb-4c4c-8137-a40e9599ecd6" />
+
 <img width="1241" height="187" alt="image" src="https://github.com/user-attachments/assets/93e2d14d-c9ac-46e8-8d83-c7f7f6f392dd" />
 
 <img width="1110" height="1534" alt="image" src="https://github.com/user-attachments/assets/e89d0f3a-f3c1-4da2-ab2b-8d57e12156e8" />
