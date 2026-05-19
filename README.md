@@ -276,6 +276,8 @@ NutriBalance can differentiate itself by offering:
 <br> <br>
 
 ---
+
+- [Define](Define.md)
  
 # 2) Define Stage
 ### **Goal**
