@@ -1,6 +1,4 @@
-<img width="1920" height="4124" alt="screencapture-file-C-Users-EL-Mostwred-Desktop-New-folder-index-html-2026-05-20-01_56_032" src="https://github.com/user-attachments/assets/7e0015b4-26a4-4c2b-a131-0a7f873ba946" />
-
-
+<img width="1920" height="4333" alt="image2" src="https://github.com/user-attachments/assets/03ae6f60-9ff7-40bc-8420-87b39fca5841" />
 # 1) Empathize
 ### Goal
  Understand the users needs, behaviors, and challenges related to managing diet and health conditions. 
@@ -115,24 +113,13 @@ From the 12 survey questions, the main user problems identified are:
 <br>  <br>
 ### Secondary Research
 
+<img width="1920" height="4124" alt="image1" src="https://github.com/user-attachments/assets/b23aa426-c7d2-44a1-b202-a1d0d637386c" />
 
-<img width="1920" height="4458" alt="screencapture-file-C-Users-EL-Mostwred-Desktop-New-folder-index-html-2026-05-20-01_56_033" src="https://github.com/user-attachments/assets/805ba7fa-89eb-4c4c-8137-a40e9599ecd6" />
+<img width="1920" height="4333" alt="image2" src="https://github.com/user-attachments/assets/70574183-8eca-43e0-ac10-8450d17edec3" />
 
-<img width="1241" height="187" alt="image" src="https://github.com/user-attachments/assets/93e2d14d-c9ac-46e8-8d83-c7f7f6f392dd" />
+<img width="1920" height="4266" alt="image3" src="https://github.com/user-attachments/assets/f792ec4f-6c6a-4634-a5ec-1b060f6c0b72" />
 
-<img width="1110" height="1534" alt="image" src="https://github.com/user-attachments/assets/e89d0f3a-f3c1-4da2-ab2b-8d57e12156e8" />
 
-<img width="1059" height="526" alt="image" src="https://github.com/user-attachments/assets/5593c4bf-679f-4dd6-8484-5c18ac30b0e7" />
-
-<img width="1095" height="1492" alt="image" src="https://github.com/user-attachments/assets/65fa2209-d57d-49f9-8a7b-ab18164a23c8" />
-
-<img width="1064" height="551" alt="image" src="https://github.com/user-attachments/assets/6ccb09aa-80c4-4b3f-8fd3-d532f1e67502" />
-
-<img width="1102" height="1564" alt="image" src="https://github.com/user-attachments/assets/b3482287-848d-43c3-a062-d31a4dc68aea" />
-
-<img width="1083" height="570" alt="image" src="https://github.com/user-attachments/assets/99a188f7-d3b4-4a97-a6f2-1ae131251718" />
-
-<img width="1074" height="199" alt="image" src="https://github.com/user-attachments/assets/b19174ac-58e8-4f5d-b489-26147c6fda68" />
 <br>  <br>
 
 ### Growth of Health Apps
