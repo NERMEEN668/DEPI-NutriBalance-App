@@ -31,28 +31,28 @@
         - **Diabetes** measurement
         - **Hypertension** checks
     - Customizable timing based on user routine
-8. Hydration Reminder
+8. **Hydration Reminder**
     - Smart reminders to drink water throughout the day
     - Daily water intake tracking
-9. Restaurant Meal Analyzer
+9. **Restaurant Meal Analyzer**
     - Users enter meal ingredients from restaurant menus
     - App evaluates:
         - Suitability for the health condition
         - Nutritional impact
-10. Medical Tips & Articles
+10. **Medical Tips & Articles**
     - Verified and simplified medical information
-11. Ingredient-Based Meal Generator
+11. **Ingredient-Based Meal Generator**
     - Users input available ingredients
     - App suggests suitable healthy meals
-12. Future Health Projection (Mirror Feature)
+12. **Future Health Projection (Mirror Feature)**
     - Shows potential future outcomes based on current eating habits
     - Visual streak counter to motivate users
-13. Streak System
+13. **Streak System**
     - Track consistency in:
         - Logging meals
         - Following the meal plans
     - Visual streak counter to motivate users
-14. Weekly Food Challenge Mode
+14. **Weekly Food Challenge Mode**
     - Challenges such as:
         - “Low Sugar Week” or “No Processed Food Challenge”
     - Rewards or badges for completion
