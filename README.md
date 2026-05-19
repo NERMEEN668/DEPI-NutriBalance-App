@@ -85,6 +85,9 @@ A community space where users can share healthy recipes, upload photos and ingre
 ---
 ## Contents
 ### 1) [Empathize](Empathize.md)
+### 2)  [Define](Define.md)
+### 3) [Ideate](Ideate.md)
+
 
 # 1) Empathize
 ### Goal
