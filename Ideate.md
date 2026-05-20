@@ -81,11 +81,11 @@
 <br>  <br>
 
 ### Information Architecture
-<img width="6008" height="1928" alt="IA" src="https://github.com/user-attachments/assets/53c17f9c-5b11-4a44-bdfa-bd2973e1de1c" />
+<img width="7473" height="1928" alt="IA" src="https://github.com/user-attachments/assets/b08b5630-030d-4af7-b115-0a0706ee5728" />
 <br>  <br>
 
 ### Site Map
-<img width="4173" height="2077" alt="Sitemap" src="https://github.com/user-attachments/assets/92877d45-992e-41b0-af71-31139241f11f" />
+<img width="4173" height="2077" alt="Sitemap" src="https://github.com/user-attachments/assets/5f2abffa-1f90-4ce9-a376-9d3536459430" />
 <br>  <br>
 
 ### User Flow
